@@ -1,0 +1,4 @@
+export const FETCH_USERS = 'FETCH_USERS'
+export const FETCH_CARTS = 'FETCH_CARTS'
+export const FETCH_PRODUCTS = 'FETCH_PRODUCTS'
+export const CHANGE_ACTIVE_CART = 'CHANGE_ACTIVE_CART'
